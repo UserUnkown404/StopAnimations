@@ -1,0 +1,2 @@
+# StopAnimations
+Stops Animations Playing
