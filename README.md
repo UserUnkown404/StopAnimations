@@ -1,2 +1,0 @@
-# StopAnimations
-Stops Animations Playing
